@@ -7,9 +7,7 @@ A Software Engineer with experience in Java, Angular, and Data Science.
 - Data Science, Machine Learning
 
 ## 📂 Projects
-1. **E-commerce App** - [GitHub Repo](https://github.com/your-username/ecommerce-app)
-2. **Data Analysis Dashboard** - [GitHub Repo](https://github.com/your-username/data-dashboard)
-3. **LeetCode Solutions** - [GitHub Repo](https://github.com/your-username/leetcode)
+1. **Hetrogenous Data Analysis** - [GitHub Repo](https://github.com/tejajijo/Thesis_CS648_2023.git)
 
 ## 📧 Contact
 [LinkedIn](https://www.linkedin.com/in/tejarose/) | Email: your.email@example.com
